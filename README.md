@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Mudasir Reyaz
 
-### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` | `Cybersecurity Enthusiast`
+### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` | `AI engineer`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Software+Solutions;Learning+Cybersecurity;Turning+Ideas+Into+Code" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/meermudasir">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0078D4?style=for-the-badge" />
@@ -25,7 +25,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring A
 - 🎓 Pursuing BCA in Artificial Intelligence & Machine Learning.
 - 🤖 Aspiring AI Engineer.
 - 💻 Exploring Software Development.
-- 🔐 Interested in Cybersecurity.
+- 🔐 Interested in AI Engineer.
 - 🌐 Learning Web Development.
 - 🚀 Building practical projects and improving my technical skills.
 - 🎯 Looking for opportunities to learn, collaborate, and contribute.
@@ -62,9 +62,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring A
 
 ## 🚀 Featured Projects
 
-### 🔐 WorkflowGuard
-A cybersecurity-focused workflow scanning prototype designed to identify potential security issues.
-
+Technology: Python, OCR, Computer Vision, Speech AI.
 **Technologies:** Python, Flask
 
 ### 🏥 Hospital Management System
@@ -75,7 +73,7 @@ A beginner-level programming project focused on basic hospital management operat
 ### 🌐 Web Development
 Exploring website structure, styling, and responsive design through practical projects.
 
-**Technologies:** HTML, CSS
+**Technologies:** full stack 
 
 > More projects and experiments coming soon!
 
@@ -86,7 +84,6 @@ Exploring website structure, styling, and responsive design through practical pr
 - Artificial Intelligence & Machine Learning
 - Python Development
 - Software Engineering
-- Cybersecurity
 - Web Development
 - Problem Solving & Algorithms
 
@@ -95,12 +92,12 @@ Exploring website structure, styling, and responsive design through practical pr
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meermudasir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=meermudasir&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -124,14 +121,14 @@ Exploring website structure, styling, and responsive design through practical pr
   </a>
   <a href="# 👋 Hey, I'm Mudasir Reyaz
 
-### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` | `Cybersecurity Enthusiast`
+### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` |
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Software+Solutions;Learning+Cybersecurity;Turning+Ideas+Into+Code" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/meermudasir">
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0078D4?style=for-the-badge" />
@@ -149,7 +146,7 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring A
 - 🎓 Pursuing BCA in Artificial Intelligence & Machine Learning.
 - 🤖 Aspiring AI Engineer.
 - 💻 Exploring Software Development.
-- 🔐 Interested in Cybersecurity.
+- 🔐 Interested in AI .
 - 🌐 Learning Web Development.
 - 🚀 Building practical projects and improving my technical skills.
 - 🎯 Looking for opportunities to learn, collaborate, and contribute.
@@ -187,7 +184,8 @@ Currently, I'm focused on strengthening my programming fundamentals, exploring A
 ## 🚀 Featured Projects
 
 ### 🔐 WorkflowGuard
-A cybersecurity-focused workflow scanning prototype designed to identify potential security issues.
+ Technology: Python, OCR, Computer Vision, Speech 
+
 
 **Technologies:** Python, Flask
 
@@ -210,7 +208,6 @@ Exploring website structure, styling, and responsive design through practical pr
 - Artificial Intelligence & Machine Learning
 - Python Development
 - Software Engineering
-- Cybersecurity
 - Web Development
 - Problem Solving & Algorithms
 
@@ -220,11 +217,11 @@ Exploring website structure, styling, and responsive design through practical pr
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meermudasir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=meermudasir&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -243,13 +240,13 @@ Exploring website structure, styling, and responsive design through practical pr
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/meermudasir">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/mudasir-reyaz-35b649383">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:meermudasir4444@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
