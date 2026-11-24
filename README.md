@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mudasir Reyaz
 
-### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` | `AI engineer`
+### `Aspiring AI Engineer` | `BCA (Hons) AI & ML` | `Developer` | `AI engineer`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Software+Solutions;Learning+Cybersecurity;Turning+Ideas+Into+Code" />
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a BCA student specializing in **Artificial Intelligence & Machine Learning**, passionate about technology, software development, and solving real-world problems through code.
+I'm a BCA (Hons) student specializing in **Artificial Intelligence & Machine Learning**, passionate about technology, software development, and solving real-world problems through code.
 
 Currently, I'm focused on strengthening my programming fundamentals, exploring AI technologies, and developing practical projects.
 
@@ -121,7 +121,7 @@ Exploring website structure, styling, and responsive design through practical pr
   </a>
   <a href="# 👋 Hey, I'm Mudasir Reyaz
 
-### `Aspiring AI Engineer` | `BCA (AI & ML)` | `Developer` |
+### `Aspiring AI Engineer` | `BCA (Hons) AI & ML` | `Developer` |
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Software+Solutions;Learning+Cybersecurity;Turning+Ideas+Into+Code" />
@@ -139,11 +139,11 @@ Exploring website structure, styling, and responsive design through practical pr
 
 ## 👨‍💻 About Me
 
-I'm a BCA student specializing in **Artificial Intelligence & Machine Learning**, passionate about technology, software development, and solving real-world problems through code.
+I'm a BCA (Hons) AI & ML student specializing in **Artificial Intelligence & Machine Learning**, passionate about technology, software development, and solving real-world problems through code.
 
 Currently, I'm focused on strengthening my programming fundamentals, exploring AI technologies, and developing practical projects.
 
-- 🎓 Pursuing BCA in Artificial Intelligence & Machine Learning.
+- 🎓 Pursuing BCA (Hons) in Artificial Intelligence & Machine Learning.
 - 🤖 Aspiring AI Engineer.
 - 💻 Exploring Software Development.
 - 🔐 Interested in AI .
